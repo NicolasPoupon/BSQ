@@ -21,4 +21,4 @@ Usage:
 Example
 
 
-![alt text](https://raw.githubusercontent.com/alexandre10044/BSQ/master/example.png)
+![alt text](https://raw.githubusercontent.com/Skynz-Hub/BSQ/master/example.png)
